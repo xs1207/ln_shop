@@ -10,6 +10,6 @@ class ApiController extends Controller
     //
     public function api()
     {
-        echo 1;
+        echo 12323;
     }
 }
